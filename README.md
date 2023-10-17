@@ -1,4 +1,4 @@
-##Food Order React App
+## Food Order React App
 
 Test food ordering app using redux/toolkit and a firebase test Web API setup.
 

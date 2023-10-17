@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+#Food Order React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Test food ordering app using redux/toolkit and a firebase test Web API setup.
 
 ## Available Scripts
 
